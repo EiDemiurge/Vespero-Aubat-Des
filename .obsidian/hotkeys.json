@@ -1,0 +1,69 @@
+{
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "]"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "/"
+    }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "editor:set-heading-3": [
+    {
+      "modifiers": [],
+      "key": "F1"
+    }
+  ],
+  "editor:set-heading-4": [
+    {
+      "modifiers": [],
+      "key": "F2"
+    }
+  ],
+  "editor:set-heading-5": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "editor:unfold-all": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ],
+  "editor:fold-all": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
+  ],
+  "bookmarks:bookmark-current-heading": [
+    {
+      "modifiers": [],
+      "key": "F6"
+    }
+  ],
+  "app:open-help": [],
+  "workspace:edit-file-title": [],
+  "editor:set-heading": [
+    {
+      "modifiers": [],
+      "key": "F7"
+    }
+  ]
+}
