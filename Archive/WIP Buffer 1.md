@@ -1,3 +1,6 @@
+### Extra
+Enemy Waves & Party swaps - emergent complexity multiplier without inherent complexity! Since we try to stick to 3 wound rule, late builds will probably be faster to kill in fact! That's also why we need per-unit intervals for player-phase later on. 
+
 Questions
 	Q: Card we run out of cards or do they reshuffle or flow from elsewhere?
 	Q: Hex Mask	Rotates whenever we apply a Symbol?

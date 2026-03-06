@@ -8,99 +8,85 @@
         "type": "tabs",
         "children": [
           {
-            "id": "baeb1f4caa64d83f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "--- Vespero Agnostum  ---.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "--- Vespero Agnostum  ---"
-            }
-          },
-          {
-            "id": "1e2e706d849f09df",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Readme"
-            }
-          },
-          {
-            "id": "ef1227b64fb43ad4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Table of Contents.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Table of Contents"
-            }
-          },
-          {
-            "id": "c5b67793febb0380",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIP.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "WIP"
-            }
-          },
-          {
             "id": "32ab55119781dcc0",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fill Contents.md",
+                "file": "Map to Fill.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Fill Contents"
+              "title": "Map to Fill"
             }
           },
           {
-            "id": "4a8a330385f3447d",
+            "id": "a50b8cb562f692c7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIP/Content/Unit Content Outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Unit Content Outline"
+            }
+          },
+          {
+            "id": "1f12fa9b61cd9b87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/Unit Content.md",
+                "file": "WIP Buffer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unit Content"
+              "title": "WIP Buffer"
+            }
+          },
+          {
+            "id": "23af90edd25f0afa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Master/✓ Combat Mechanics.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "✓ Combat Mechanics"
+            }
+          },
+          {
+            "id": "b488fd05d6eb5472",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/Structure/FS-1/PoC Tech Spec.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "PoC Tech Spec"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "207be90e3ca7242b",
@@ -262,28 +249,115 @@
       "bases:Create new base": false
     }
   },
-  "active": "4a8a330385f3447d",
+  "floating": {
+    "id": "75395766bd76c78d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0c93c08f8cb90d89",
+        "type": "window",
+        "children": [
+          {
+            "id": "7e344813ce9881f6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1a1b8d0e728d9cb9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "WIP/Assets/SD/SD Lib.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "SD Lib"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 396,
+        "y": 30,
+        "width": 875,
+        "height": 1113,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "568d58600f12220f",
+        "type": "window",
+        "children": [
+          {
+            "id": "486e2ac7c6cb6f41",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7e3807e273ad8536",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "WIP/FS-1 Tech Features.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "FS-1 Tech Features"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1080,
+        "y": -291,
+        "width": 1080,
+        "height": 1920,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "b488fd05d6eb5472",
   "lastOpenFiles": [
-    "Content/Unit Parameters.md",
-    "Content/Unit Content.md",
-    "Fill Contents.md",
-    "WIP.md",
+    "Map to Fill.md",
+    "WIP/FS-1 Tech Features.md",
+    "Master/✓ Combat Mechanics.md",
+    "Archive/Structure/FS-1/PoC Tech Spec.md",
+    "WIP/FS-1 Content WIP.md",
+    "Archive/X - Symbol Effect Mechanics.md",
+    "Archive/Structure/FS-1/FS-1 Content.md",
+    "Archive/Structure/FS-1",
+    "__Vespero Roadmap__.md",
+    "WIP Buffer.md",
+    "Archive/Structure",
+    "__template__/CNT - Unit Template EMPTY.md",
     "__template__/CNT - Unit Template.md",
-    "Content/Perks.md",
-    "Table of Contents.md",
+    "WIP/Content/Unit Content WS.md",
+    "WIP/__ Questions __.md",
+    "WIP/__ IDEAS __.md",
+    "Archive/WIP Buffer 1.md",
     "Readme.md",
-    "Content",
+    "___ DES OUTLINE ___.md",
     "--- Vespero Agnostum  ---.md",
+    "Archive",
+    "WIP/Content/Unit Parameters.md",
+    "WIP/Content/Unit Content Outline.md",
+    "WIP/Content/Perks.md",
+    "Master",
+    "WIP",
+    "WIP/Assets/SD/SD Lib.md",
+    "WIP/Assets/SD",
+    "WIP/Assets",
+    "WIP/Content",
     "__template__/X - Mini Topics.md",
     "__template__/X - Micro Topics.md",
     "__template__/X - Flat Topics.md",
     "__template__",
     "World-Building/--- WB Hub ---.md",
-    "World-Building/Concepts/Global Concepts.md",
-    "World-Building/Language",
-    "Welcome.md",
-    "World-Building/History",
-    "World-Building/Concepts",
-    "World-Building"
+    "World-Building/Language"
   ]
 }
