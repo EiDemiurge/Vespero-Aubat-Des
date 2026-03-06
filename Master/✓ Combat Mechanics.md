@@ -23,6 +23,8 @@ Units: [Targeting Templates]
 	🕂 Slam (back) - same, but 2 zone variants 
 	🕂 Random Cell (back) -  one out of those 3 cells, randomly picked
 	🕂 Polearm (back) - melee-like rule (first target from top/bottom) plus the target behind it. 
+	🕂 Missile (back) - first target in line. If there are two - random?  
+	🕂 Wave (back) - 4-cell zones
 
 Units: [Damage]
 	There are 8 damage types:

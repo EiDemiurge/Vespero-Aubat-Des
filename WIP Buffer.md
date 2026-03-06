@@ -11,6 +11,13 @@ PoC Temp-elements & Content
 
 
 ### --- Questions --- 
+
+[AI Preps Phase]
+Q: Random - deterministic, then it's COINS? Unless we also have non 1/2 random (e.g. "random target in Zone"! )
+
+Q: 
+
+---
 Q: Damage/Ward type from Symbols ("slots" - ???)
 	I don't want units to 'depend' in any way - so apparently this must also be just an "FX" - which lasts one turn and that's it. 
 	But having unit acquire both TYPES from just a single Symbol seems too extreme?
