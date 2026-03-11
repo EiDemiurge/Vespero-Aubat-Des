@@ -1,0 +1,54 @@
+﻿/* Make markers take up space but be invisible */
+.is-live-preview .cm-formatting-header {
+  display: inline !important;
+  color: transparent !important;
+  font-size: inherit !important;
+  width: auto !important;
+  overflow: visible !important;
+}
+
+/* Show them normally when the line is active */
+.is-live-preview .cm-active .cm-formatting-header {
+  color: inherit !important;
+}
+
+.is-live-preview .cm-formatting-header {
+  position: static !important;
+  clip: unset !important;
+  clip-path: none !important;
+  opacity: 0 !important;
+}
+
+.is-live-preview .cm-active .cm-formatting-header {
+  opacity: 1 !important;
+}
+
+/* Reserve space for heading markers so text doesn't jerk */
+.is-live-preview .HyperMD-header-1 {
+  padding-left: 2.2ch;
+}
+.is-live-preview .HyperMD-header-2 {
+  padding-left: 2.8ch;
+}
+.is-live-preview .HyperMD-header-3 {
+  padding-left: 3.4ch;
+}
+.is-live-preview .HyperMD-header-4 {
+  padding-left: 4.0ch;
+}
+.is-live-preview .HyperMD-header-5 {
+  padding-left: 4.6ch;
+}
+.is-live-preview .HyperMD-header-6 {
+  padding-left: 5.2ch;
+}
+
+/* Remove padding when the line is active and markers are visible */
+.is-live-preview .cm-active.HyperMD-header-1,
+.is-live-preview .cm-active.HyperMD-header-2,
+.is-live-preview .cm-active.HyperMD-header-3,
+.is-live-preview .cm-active.HyperMD-header-4,
+.is-live-preview .cm-active.HyperMD-header-5,
+.is-live-preview .cm-active.HyperMD-header-6 {
+  padding-left: 0;
+}

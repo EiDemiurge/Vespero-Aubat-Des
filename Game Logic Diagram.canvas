@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"f02d43285f9ee4a1","x":-760,"y":-100,"width":250,"height":60,"type":"text","text":"App Launch"},
+		{"id":"e605f4e85404ac32","x":-360,"y":-110,"width":250,"height":81,"type":"text","text":"Create FSM with state SETUP"},
+		{"id":"13502ad999886199","x":-360,"y":74,"width":250,"height":60,"type":"text","text":"PIPELINE: Setup"},
+		{"id":"40c40aef93dd7555","x":0,"y":40,"width":250,"height":95,"type":"text","text":"GameState with Phase COMBAT"},
+		{"id":"202e10be1e856967","x":0,"y":210,"width":250,"height":60,"type":"text","text":"Start Round Loop"}
+	],
+	"edges":[
+		{"id":"bef56996c0a6743b","fromNode":"f02d43285f9ee4a1","fromSide":"right","toNode":"e605f4e85404ac32","toSide":"left"},
+		{"id":"d6476efbcbc8a33a","fromNode":"e605f4e85404ac32","fromSide":"bottom","toNode":"13502ad999886199","toSide":"top"},
+		{"id":"329eec7be08ce38a","fromNode":"13502ad999886199","fromSide":"right","toNode":"40c40aef93dd7555","toSide":"left"},
+		{"id":"2a1441856bbe78b5","fromNode":"40c40aef93dd7555","fromSide":"bottom","toNode":"202e10be1e856967","toSide":"top"}
+	]
+}

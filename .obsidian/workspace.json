@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "32ab55119781dcc0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Map to Fill.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Map to Fill"
-            }
-          },
-          {
             "id": "1f12fa9b61cd9b87",
             "type": "leaf",
             "state": {
@@ -38,83 +22,67 @@
             }
           },
           {
-            "id": "23af90edd25f0afa",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Master/✓ Combat Mechanics.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "✓ Combat Mechanics"
-            }
-          },
-          {
             "id": "b488fd05d6eb5472",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIP/(!) PoC Tech Spec.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "(!) PoC Tech Spec"
-            }
-          },
-          {
-            "id": "fd58e1d2af8da3ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIP/FS-1/FS-1 Unit Content WS.md",
+                "file": "Archive/FS-1 LOGIC Specs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FS-1 Unit Content WS"
+              "title": "FS-1 LOGIC Specs"
             }
           },
           {
-            "id": "58d2b5057f68f514",
+            "id": "9fa9550575fd65e7",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIP/AI Reqs/AI to AI Spec refinement.md",
+                "file": "WIP/AI Reqs/Input/FS-1/➮ IN - FULL SPEC.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "AI to AI Spec refinement"
+              "title": "➮ IN - FULL SPEC"
             }
           },
           {
-            "id": "1086a078acc98a37",
+            "id": "c88b46cb6307a0c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIP Buffer.md",
+                "file": "WIP/_Longterm_/Assets/SD/SD Lib.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIP Buffer"
+              "title": "SD Lib"
+            }
+          },
+          {
+            "id": "00fd4e48cc96437e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIP/AI Reqs/Output/JS STATUS.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "JS STATUS"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -276,115 +244,44 @@
       "bases:Create new base": false
     }
   },
-  "floating": {
-    "id": "75395766bd76c78d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0c93c08f8cb90d89",
-        "type": "window",
-        "children": [
-          {
-            "id": "7e344813ce9881f6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1a1b8d0e728d9cb9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "WIP/Assets/SD/SD Lib.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "SD Lib"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 396,
-        "y": 30,
-        "width": 875,
-        "height": 1113,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "568d58600f12220f",
-        "type": "window",
-        "children": [
-          {
-            "id": "486e2ac7c6cb6f41",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7e3807e273ad8536",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "WIP/FS-1 Tech Features.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "FS-1 Tech Features"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1080,
-        "y": -291,
-        "width": 1080,
-        "height": 1920,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "58d2b5057f68f514",
+  "active": "f7e8f5da939e12d2",
   "lastOpenFiles": [
-    "WIP Buffer.md",
+    "WIP/Frontend/Lib/Tween Lib.md",
+    "WIP/Frontend/Input/FR AI-Plan.md",
+    "WIP/Frontend/UI Markup.md",
+    "WIP/Frontend/Lib",
+    "WIP/Frontend/Input",
+    "WIP/Frontend/Frontend Spec.md",
+    "WIP/Frontend/FR Text Content.md",
+    "WIP/Frontend/FR Overview.md",
+    "WIP/Frontend",
+    "WIP/Front/Lib/Tween Lib.md",
+    "WIP/Front/Input/FR AI-Plan.md",
+    "WIP/Front/UI Markup.md",
+    "WIP/Front/FR Text Content.md",
+    "WIP/Front/Frontend Spec.md",
+    "WIP/Front/FR Overview.md",
+    "WIP/Front/Input",
+    "WIP/FS-1/FS-1 FRONT specs.md",
+    "WIP/Front/Lib",
+    "WIP/AI Reqs/Output/JS STATUS.md",
+    "WIP/AI Reqs/Input/FS-1/➮ IN - FULL SPEC.md",
+    "WIP/AI Reqs/Input/➮ AI to AI Spec refinement.md",
+    "WIP/AI Reqs/Input/Prompt Playbook (FS-1).md",
+    "WIP/Front",
+    "WIP/AI Reqs/Input/FS-1 Test Scenario.md",
+    "AI Review.md",
+    "WIP/_Longterm_/Assets/SD/SD Lib.md",
+    "WIP/AI Reqs/Output/TASK_M1.md",
     "Master/✓ Combat Mechanics.md",
-    "WIP/(!) PoC Tech Spec.md",
-    "WIP/AI Reqs/AI to AI Spec refinement.md",
-    "WIP/FS-1/FS-1 Unit Content WS.md",
-    "WIP/AI Reqs/FS-1 AI Reqs.md",
-    "WIP/AI Reqs",
-    "WIP/FS-1 Tech Features.md",
-    "WIP/Content/Unit Content Outline.md",
-    "WIP/FS-1/FS-1 Perks.md",
-    "WIP/Content/Perks.md",
-    "WIP/Content/Unit Content WS.md",
-    "WIP/FS-1 Content WIP.md",
-    "WIP/FS-1",
-    "Archive/Structure/FS-1/FS-1 Content.md",
-    "Map to Fill.md",
-    "Archive/X - Symbol Effect Mechanics.md",
-    "Archive/Structure/FS-1",
-    "__Vespero Roadmap__.md",
-    "Archive/Structure",
-    "__template__/CNT - Unit Template EMPTY.md",
-    "__template__/CNT - Unit Template.md",
-    "WIP/__ Questions __.md",
-    "WIP/__ IDEAS __.md",
-    "Archive/WIP Buffer 1.md",
-    "Readme.md",
-    "___ DES OUTLINE ___.md",
-    "--- Vespero Agnostum  ---.md",
-    "Archive",
-    "WIP/Content/Unit Parameters.md",
-    "Master",
-    "WIP",
-    "WIP/Assets/SD/SD Lib.md",
-    "WIP/Assets/SD",
-    "WIP/Assets",
-    "WIP/Content"
+    "WIP/AI Reqs/Input/FS-1/➮ IN - Content (FS-1).md",
+    "WIP/AI Reqs/Input/Combat Grid Mappings.md",
+    "Archive/(Compressed) LOGIC FS-1 WIP.md",
+    "Archive/(Old) Extract - Logic FS-1.md",
+    "Game Logic Diagram.canvas",
+    "WIP/AI Reqs/Input/FS-1",
+    "WIP/AI Reqs/Output",
+    "WIP/_Longterm_",
+    "WIP/AI Reqs/Lib"
   ]
 }
