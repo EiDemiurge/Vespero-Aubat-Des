@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f12fa9b61cd9b87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIP Buffer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WIP Buffer"
-            }
-          },
-          {
-            "id": "b488fd05d6eb5472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/FS-1 LOGIC Specs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FS-1 LOGIC Specs"
-            }
-          },
-          {
             "id": "9fa9550575fd65e7",
             "type": "leaf",
             "pinned": true,
@@ -66,37 +38,97 @@
             }
           },
           {
-            "id": "00fd4e48cc96437e",
+            "id": "e6dfcb01ce1e6951",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIP/AI Reqs/Output/JS STATUS.md",
+                "file": "WIP/AI Reqs/Input/Prompt Playbook (FS-1).md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "JS STATUS"
+              "title": "Prompt Playbook (FS-1)"
             }
           },
           {
             "id": "beb3d05415131142",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIP/Frontend/Input/FR AI-Plan.md",
+                "file": "WIP/FR-1/FRONTEND_SPEC.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "FRONTEND_SPEC"
+            }
+          },
+          {
+            "id": "bf91438105b7598e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIP/FR-1/Tween Lib.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FR AI-Plan"
+              "title": "Tween Lib"
+            }
+          },
+          {
+            "id": "8065c5b4f8c7012d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "M2 Iteration.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "M2 Iteration"
+            }
+          },
+          {
+            "id": "467c397c21f89332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kodo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kodo"
+            }
+          },
+          {
+            "id": "d93ef4ebfe460282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIP/_Longterm_/Assets/SD/Style lib.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Style lib"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -153,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 412.5
   },
   "right": {
     "id": "207be90e3ca7242b",
@@ -258,44 +290,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "beb3d05415131142",
+  "active": "d93ef4ebfe460282",
   "lastOpenFiles": [
-    "WIP/Frontend/UI Markup.md",
-    "WIP/Front/Input/FR AI-Plan.md",
-    "WIP/Frontend/mockup.png",
-    "WIP/Frontend/Lib/Tween Lib.md",
-    "WIP/Frontend/Input/FR AI-Plan.md",
-    "WIP/Frontend/Lib",
-    "WIP/Frontend/Input",
+    "WIP/AI Reqs/Input/FS-1/➮ IN - FULL SPEC.md",
+    "WIP/AI Reqs/Input/FS-1 Test Scenario.md",
+    "WIP/AI Reqs/Input/Combat Grid Mappings.md",
+    "Prompt Playbook (FS-1).md",
+    "WIP/AI Reqs/Input/➮ AI to AI Spec refinement.md",
+    "Readme.md",
+    "M1/WIP/Content",
+    "M1/WIP/Client",
+    "M1/WIP/Logic",
+    "__VESPERO PoC__.md",
+    "M1/WIP/_bin_",
+    "M1/AI",
+    "M1/_Sealed_",
+    "M1/WIP",
+    "M1/Master",
+    "Human/✓ Combat Mechanics.md",
+    "Temp",
+    "M1",
+    "WIP/_Longterm_/Assets/SD/Style lib.md",
+    "WIP/_Longterm_/Assets/SD/SD Lib.md",
+    "Temp/AI Review.md",
+    "Temp/M2 Fixes.md",
+    "Temp/M2 Iteration.md",
+    "Temp/Kodo.md",
+    "WIP Buffer.md",
+    "WIP/FR-1/FRONTEND_SPEC.md",
+    "WIP/AI Reqs/Output/JS STATUS.md",
+    "WIP/FS-1/FS-1 FRONT specs.md",
+    "WIP/FR-1/Tween Lib.md",
+    "WIP/FR-1/fr_spec_v2.md",
     "WIP/Frontend/Frontend Spec.md",
+    "WIP/Frontend/UI Markup.md",
     "WIP/Frontend/FR Text Content.md",
     "WIP/Frontend/FR Overview.md",
-    "WIP/Frontend",
-    "WIP/Front/Lib/Tween Lib.md",
-    "WIP/Front/UI Markup.md",
-    "WIP/Front/FR Text Content.md",
-    "WIP/Front/Frontend Spec.md",
-    "WIP/Front/FR Overview.md",
-    "WIP/Front/Input",
-    "WIP/FS-1/FS-1 FRONT specs.md",
-    "WIP/Front/Lib",
-    "WIP/AI Reqs/Output/JS STATUS.md",
-    "WIP/AI Reqs/Input/FS-1/➮ IN - FULL SPEC.md",
-    "WIP/AI Reqs/Input/➮ AI to AI Spec refinement.md",
-    "WIP/AI Reqs/Input/Prompt Playbook (FS-1).md",
-    "WIP/Front",
-    "WIP/AI Reqs/Input/FS-1 Test Scenario.md",
-    "AI Review.md",
-    "WIP/_Longterm_/Assets/SD/SD Lib.md",
-    "WIP/AI Reqs/Output/TASK_M1.md",
-    "Master/✓ Combat Mechanics.md",
-    "WIP/AI Reqs/Input/FS-1/➮ IN - Content (FS-1).md",
-    "WIP/AI Reqs/Input/Combat Grid Mappings.md",
-    "Archive/(Compressed) LOGIC FS-1 WIP.md",
-    "Game Logic Diagram.canvas",
-    "WIP/AI Reqs/Input/FS-1",
-    "WIP/AI Reqs/Output",
-    "WIP/_Longterm_",
-    "WIP/AI Reqs/Lib"
+    "WIP/Frontend/Input/FR AI-Plan.md",
+    "Archive/X - Symbol Effect Mechanics.md",
+    "WIP/Frontend/mockup.png",
+    "Temp/Game Logic Diagram.canvas"
   ]
 }
