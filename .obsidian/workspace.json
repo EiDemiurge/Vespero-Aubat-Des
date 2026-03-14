@@ -80,9 +80,23 @@
               "icon": "lucide-file",
               "title": "JS STATUS"
             }
+          },
+          {
+            "id": "beb3d05415131142",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIP/Frontend/Input/FR AI-Plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FR AI-Plan"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -244,11 +258,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "f7e8f5da939e12d2",
+  "active": "beb3d05415131142",
   "lastOpenFiles": [
+    "WIP/Frontend/UI Markup.md",
+    "WIP/Front/Input/FR AI-Plan.md",
+    "WIP/Frontend/mockup.png",
     "WIP/Frontend/Lib/Tween Lib.md",
     "WIP/Frontend/Input/FR AI-Plan.md",
-    "WIP/Frontend/UI Markup.md",
     "WIP/Frontend/Lib",
     "WIP/Frontend/Input",
     "WIP/Frontend/Frontend Spec.md",
@@ -256,7 +272,6 @@
     "WIP/Frontend/FR Overview.md",
     "WIP/Frontend",
     "WIP/Front/Lib/Tween Lib.md",
-    "WIP/Front/Input/FR AI-Plan.md",
     "WIP/Front/UI Markup.md",
     "WIP/Front/FR Text Content.md",
     "WIP/Front/Frontend Spec.md",
@@ -277,7 +292,6 @@
     "WIP/AI Reqs/Input/FS-1/➮ IN - Content (FS-1).md",
     "WIP/AI Reqs/Input/Combat Grid Mappings.md",
     "Archive/(Compressed) LOGIC FS-1 WIP.md",
-    "Archive/(Old) Extract - Logic FS-1.md",
     "Game Logic Diagram.canvas",
     "WIP/AI Reqs/Input/FS-1",
     "WIP/AI Reqs/Output",
